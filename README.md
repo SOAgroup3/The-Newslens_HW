@@ -17,7 +17,7 @@ It can let users to discuss the news and make comments.
 and our program will print the titles in NewsLens.com's main page. No parameters is needed.
 For example, if we type ```ruby newsdigests.rb``` in command line, the outcome of the program will be look like this:
 
-<pre> 
+> <pre> 
       2014年諾貝爾物理學獎，三名日本科學家因發明新光源獲獎
       華爾街日報 在 2014/10/11 發表
       
