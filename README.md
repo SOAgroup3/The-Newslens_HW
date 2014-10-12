@@ -12,4 +12,6 @@ It can let users to discuss the news and make comments.
 The titles in NewsLens.com's main page
 
 ###Usage
-In command line just type in "ruby newsdigests.rb" and our program will print the titles in NewsLens.com's main page. No parameters is needed.
+In command line just type in 
+&ruby newsdigests.rb
+and our program will print the titles in NewsLens.com's main page. No parameters is needed.
