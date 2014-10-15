@@ -7,7 +7,7 @@ Authors : LinAnita, peyruchao(peggy) and ethancychen
 > This website is a platform to provide different and multiple points of the news or some accidents.
 It can let users to discuss the news and make comments.
 
-### What do we want to scrape?
+### What do we want to scrape? 
 
 > The titles in NewsLens.com's main page
 
